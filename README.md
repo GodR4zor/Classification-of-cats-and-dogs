@@ -1,4 +1,6 @@
-# Classification-of-cats-and-dogs
+# Transfer Learning
+
+## Classification of cats and dogs
 
 [PT-BR] O dataset cats-and-dogs contém milhares de imagens de gatos e cachorros e pode ser acessado através do link
 
@@ -7,7 +9,7 @@
 **Dataset**
 [https://www.tensorflow.org/datasets/catalog/cats_vs_dogs?hl=pt]
 
-## Description
+### Description
 [PT-BR]
 O algoritmo utiliza uma rede neural convolucional pré-treinada (MobileNetv2), aproveitando os conhecimentos previamente aprendidos pela rede para realizar a classificação do dataset "cats and dogs".
 
